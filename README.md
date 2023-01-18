@@ -1,4 +1,4 @@
-# coffe-machine-heatmap
+# coffee-machine-heatmap
 The file 'Data.csv' contains data related to the electricity consumption of Alexide's coffee machine.
 The Date column represents the date and time of the sensor recording. Note that the dates are expressed in UTC.
 To convert them to the local timezone use
